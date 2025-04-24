@@ -70,12 +70,4 @@ Special thanks to mentors, peers, and data providers who supported the learning 
 
 ---
 
-## 📬 Contact
-
-**Shravan Jadhav**  
-*Aspiring Data Scientist*  
-[LinkedIn](https://www.linkedin.com/in/shravan-jadhav) | [Email](shravanjadhav844@gmail.com)
-
----
-
 
